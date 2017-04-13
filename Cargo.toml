@@ -1,0 +1,11 @@
+[package]
+name = "rsast"
+version = "0.1.0"
+authors = ["Edoardo Rosa <edoardo.rosa90@gmail.com>"]
+
+[dependencies]
+primal = "0.2.3"
+num = "0.1.36"
+rand = "0.3"
+num_cpus = "1.2.1"
+ansi_term = "0.9.0"

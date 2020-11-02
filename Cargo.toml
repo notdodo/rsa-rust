@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Edoardo Rosa <edoardo.rosa90@gmail.com>"]
 
 [dependencies]
-primal = "0.2.3"
+primal = "0.3.0"
 num = "0.1.36"
 rand = "0.3"
 num_cpus = "1.2.1"

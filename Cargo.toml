@@ -5,7 +5,7 @@ authors = ["Edoardo Rosa <edoardo.rosa90@gmail.com>"]
 
 [dependencies]
 primal = "0.3.0"
-num = "0.1.36"
+num = "0.3.1"
 rand = "0.7"
 num_cpus = "1.2.1"
 ansi_term = "0.12.1"

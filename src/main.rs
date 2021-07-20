@@ -4,8 +4,9 @@ extern crate primal;
 extern crate rand;
 extern crate num_cpus;
 extern crate ansi_term;
+extern crate num_bigint;
 
-use num::bigint::{BigUint, RandBigInt, ToBigUint};
+use num_bigint::{BigUint, RandBigInt, ToBigUint};
 use num::traits::{One, Zero};
 use num::Integer;
 use std::sync::{Arc, Mutex};

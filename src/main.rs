@@ -18,8 +18,8 @@ fn main() {
     let n0 = &BigUint::parse_bytes(b"833810193564967701912362955539789451139872863794534923259743419423089229206473091408403560311191545764221310666338878019", 10).unwrap(); // time: [impossibru]s [120],
     let n1 = &BigUint::parse_bytes(b"100433627766186892221372630609062766858404681029709092356097",10).unwrap(); // time: [impossibru]s lenght[61], r: 618970019642690137449562111 * 162259276829213363391578010288127
     let n2 = &BigUint::parse_bytes(b"72191103626161875816648846887", 10).unwrap(); // time: []s [29], r: 1500450271 *  48112959837082048697
-    let n3 = &BigUint::parse_bytes(b"4292017463532640823", 10).unwrap(); // time: [97]s [19], r: 1500450271 *  2860486313
-    let n4 = &BigUint::parse_bytes(b"608364911153957", 10).unwrap(); // time: [1]s [15], r: 4093082899 * 102841
+    let n3 = &BigUint::parse_bytes(b"4292017463532640823", 10).unwrap(); // time: 23s [19], r: 1500450271 *  2860486313
+    let n4 = &BigUint::parse_bytes(b"608364911153957", 10).unwrap(); // time: 0s [15], r: 4093082899 * 102841
     let n5 = &BigUint::parse_bytes(b"999962000357", 10).unwrap(); // time: 0s [13], r: 999979 * 999983
     let n6 = &1429229.to_biguint().unwrap(); // time: 0s [7], r: 2477 * 577
 

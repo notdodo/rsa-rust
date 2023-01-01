@@ -7,6 +7,6 @@ authors = ["Edoardo Rosa <edoardo.rosa90@gmail.com>"]
 primal = "0.3.1"
 num = "0.4.0"
 rand = "0.8"
-num_cpus = "1.14.0"
+num_cpus = "1.15.0"
 ansi_term = "0.12.1"
 num-bigint = { version = "0.4", features = ["rand"] }

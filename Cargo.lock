@@ -146,9 +146,9 @@ checksum = "ac74c624d6b2d21f425f752262f42188365d7b8ff1aff74c82e45136510a4857"
 
 [[package]]
 name = "primal"
-version = "0.3.2"
+version = "0.3.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4b53cc99c892c461727618e8a63806c94b09ae13c494dc5fc70a7557b3a2f071"
+checksum = "b1e5f354948532e6017fc91f9a5ff5ba1be0dabd3a0c9e9c417969cd4c1ad6e8"
 dependencies = [
  "primal-check",
  "primal-estimate",
